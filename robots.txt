@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dvablex.github.io/sitemap.html.gz
+Sitemap: https://dvablex.github.io/app/sitemap.html.gz
+Sitemap: https://dvablex.github.io/assets/sitemap.html.gz
+Sitemap: https://dvablex.github.io/css/sitemap.html.gz
+Sitemap: https://dvablex.github.io/includes/sitemap.html.gz
+Sitemap: https://dvablex.github.io/item/sitemap.html.gz
+Sitemap: https://dvablex.github.io/src/sitemap.html.gz
